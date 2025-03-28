@@ -1,3 +1,3 @@
 This Is my git repository.
 <br>
-Author - Sagar Singla
+Author - Singla Sagar Singla
